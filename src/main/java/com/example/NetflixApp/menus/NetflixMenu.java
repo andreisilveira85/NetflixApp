@@ -1,7 +1,7 @@
-package com.example.NetflixApp.views;
+package com.example.NetflixApp.menus;
 
-import com.example.NetflixApp.util.Colors;
-import com.example.NetflixApp.util.ScanValidation;
+import com.example.NetflixApp.utilities.Colors;
+import com.example.NetflixApp.utilities.ScanValidation;
 import java.io.IOException;
 import java.util.Scanner;
 

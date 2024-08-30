@@ -1,6 +1,6 @@
 package com.example.NetflixApp.models;
 
-import com.example.NetflixApp.util.CounterIds;
+import com.example.NetflixApp.utilities.CounterIds;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

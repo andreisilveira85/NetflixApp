@@ -2,8 +2,8 @@ package com.example.NetflixApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import com.example.NetflixApp.views.LoginMenu;
-import static com.example.NetflixApp.util.LoadingBar.printLoadingBar;
+import com.example.NetflixApp.menus.LoginMenu;
+import static com.example.NetflixApp.utilities.LoadingBar.printLoadingBar;
 
 @SpringBootApplication
 public class NetflixAppApplication {

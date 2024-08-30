@@ -2,7 +2,7 @@ package com.example.NetflixApp.services;
 
 import com.example.NetflixApp.models.Watchable;
 import com.example.NetflixApp.models.Movie;
-import com.example.NetflixApp.util.Colors;
+import com.example.NetflixApp.utilities.Colors;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

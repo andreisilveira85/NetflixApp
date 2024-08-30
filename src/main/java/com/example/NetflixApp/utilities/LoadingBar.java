@@ -1,4 +1,4 @@
-package com.example.NetflixApp.util;
+package com.example.NetflixApp.utilities;
 
 public class LoadingBar {
 

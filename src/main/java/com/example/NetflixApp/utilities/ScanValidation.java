@@ -1,4 +1,4 @@
-package com.example.NetflixApp.util;
+package com.example.NetflixApp.utilities;
 
 import java.time.LocalDate;
 import java.util.Scanner;

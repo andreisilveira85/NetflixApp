@@ -1,4 +1,4 @@
-package com.example.NetflixApp.views;
+package com.example.NetflixApp.menus;
 
 import com.example.NetflixApp.controllers.UserController;
 import com.example.NetflixApp.models.User;

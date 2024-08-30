@@ -1,10 +1,10 @@
-package com.example.NetflixApp.views;
+package com.example.NetflixApp.menus;
 
 import com.example.NetflixApp.controllers.SeriesController;
 import com.example.NetflixApp.models.Series;
 import com.example.NetflixApp.models.Genre;
 import com.example.NetflixApp.services.WatchedSeriesService;
-import com.example.NetflixApp.util.ScanValidation;
+import com.example.NetflixApp.utilities.ScanValidation;
 import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.List;

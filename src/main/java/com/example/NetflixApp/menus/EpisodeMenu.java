@@ -1,10 +1,10 @@
-package com.example.NetflixApp.views;
+package com.example.NetflixApp.menus;
 
 import com.example.NetflixApp.models.Episode;
 import com.example.NetflixApp.models.Series;
 import com.example.NetflixApp.services.EpisodeService;
-import com.example.NetflixApp.util.Colors;
-import com.example.NetflixApp.util.ScanValidation;
+import com.example.NetflixApp.utilities.Colors;
+import com.example.NetflixApp.utilities.ScanValidation;
 import lombok.RequiredArgsConstructor;
 import java.util.List;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 package com.example.NetflixApp.models;
 
-import com.example.NetflixApp.util.CounterIds;
+import com.example.NetflixApp.utilities.CounterIds;
 import java.time.LocalDate;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
